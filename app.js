@@ -1,6 +1,6 @@
 
-let pronoun = ['the', 'your'];
-let adj = ['great', 'big', 'sad', 'angry', 'crazy'];
+let pronoun = ['the', 'your', 'a'];
+let adj = ['sleepy', 'big', 'sad', 'hungry', 'crazy'];
 let noun = ['jogger','racoon', 'pirate', 'loco', 'detective'];
 
 const Generator =()=>{
